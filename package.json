@@ -13,6 +13,8 @@
     "@types/node": "^20.9.0",
     "@types/react": "^18.2.37",
     "@types/react-dom": "^18.2.15",
+    "copy-webpack-plugin": "^11.0.0",
+    "html-webpack-plugin": "^5.5.3",
     "react": "^18.2.0",
     "ts-loader": "^9.5.0",
     "typescript": "^5.2.2",
