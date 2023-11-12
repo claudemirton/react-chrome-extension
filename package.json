@@ -9,6 +9,7 @@
   "author": "Claudemirton Macedo",
   "license": "UNLICENCED",
   "devDependencies": {
+    "@types/chrome": "^0.0.251",
     "@types/jest": "^29.5.8",
     "@types/node": "^20.9.0",
     "@types/react": "^18.2.37",
